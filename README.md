@@ -3,5 +3,5 @@
     <img src="https://skillicons.dev/icons?i=python" />
   </a>
 </p>
-
-<h1 align="center">Implementations of Algorithms in the Python Language</h1>
+<h2 align="center">Python</h2>
+<p align="center">This repository contains Data Structures and Algorithms (DSAs) in Python.</p>
